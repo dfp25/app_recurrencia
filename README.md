@@ -51,7 +51,7 @@ Para ejecutar la aplicación en tu entorno local, sigue estos pasos:
 * Las dependencias listadas en `requirements.txt`
 
 # Licencia
-Este proyecto está bajo la Licencia MIT.
+Este proyecto es de licencia libre.
 
 # Autor
 Desarrollado por [dfp25](https://github.com/dfp25).
