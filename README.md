@@ -54,4 +54,4 @@ Para ejecutar la aplicación en tu entorno local, sigue estos pasos:
 Este proyecto está bajo la Licencia MIT.
 
 # Autor
-Desarrollado por dfp25[dfp25](https://github.com/dfp25).
+Desarrollado por [dfp25](https://github.com/dfp25).
