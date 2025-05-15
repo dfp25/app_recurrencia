@@ -42,13 +42,13 @@ Para ejecutar la aplicación en tu entorno local, sigue estos pasos:
    streamlit run app_recurrencia.py
 
 # Estructura del repositorio
-* app_recurrencia.py: Código principal de la aplicación Streamlit.
-* modelo_recurrencia_7.joblib: Archivo del modelo de recurrencia entrenado.
-* requirements.txt: Lista de dependencias necesarias para ejecutar la aplicación.
+* `app_recurrencia.py`: Código principal de la aplicación Streamlit.
+* `modelo_recurrencia_7.joblib`: Archivo del modelo de recurrencia entrenado.
+* `requirements.txt`: Lista de dependencias necesarias para ejecutar la aplicación.
 
 # Requisitos
 * Python 3.7 o superior
-* Las dependencias listadas en requirements.txt
+* Las dependencias listadas en `requirements.txt`
 
 # Licencia
 Este proyecto está bajo la Licencia MIT.
